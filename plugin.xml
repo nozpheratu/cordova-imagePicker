@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
   xmlns:android="http://schemas.android.com/apk/res/android"
-  id="cordova-plugin-image-picker"
+  id="repasse-plugin-image-picker"
   version="1.1.1">
 
 	<name>ImagePicker</name>
@@ -104,6 +104,7 @@
 		<source-file src="src/android/Library/res/values/multiimagechooser_strings_en.xml" target-dir="res/values"/>
 		<source-file src="src/android/Library/res/values/themes.xml" target-dir="res/values"/>
 		
+		<source-file src="src/android/Library/res/values-pt/multiimagechooser_strings_pt.xml" target-dir="res/values-pt"/>
 		<source-file src="src/android/Library/res/values-de/multiimagechooser_strings_de.xml" target-dir="res/values-de"/>
 		<source-file src="src/android/Library/res/values-es/multiimagechooser_strings_es.xml" target-dir="res/values-es"/>
 		<source-file src="src/android/Library/res/values-fr/multiimagechooser_strings_fr.xml" target-dir="res/values-fr"/>
