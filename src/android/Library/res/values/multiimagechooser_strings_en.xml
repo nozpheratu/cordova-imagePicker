@@ -7,7 +7,7 @@
     <string name="multi_image_picker_processing_images_title">Processing images</string>
     <string name="multi_image_picker_processing_images_message">This may take a moment</string>
     <string name="maximum_selection_count_error_header">Limit Reached</string>
-    <string name="maximum_selection_count_error_message">Você pode selecionar até %d fotos de uma vez.</string>
+    <string name="maximum_selection_count_error_message">You can select up to %d photos at a time.</string>
     <string name="discard" translatable="false">Cancel</string>
     <string name="done" translatable="false">OK</string>
 </resources>
